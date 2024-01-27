@@ -5,4 +5,6 @@
 
 Dev back-end em desenvolvimento
 
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
 e-mail de contato: wellington.lima98@hotmail.com
