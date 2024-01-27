@@ -5,10 +5,4 @@
 
 Dev back-end em desenvolvimento
 
-#### Tecnologias que eu uso no meu dia-dia:
- <div style="display: inline_block"> <br/>
-  <img align="center" alt="html5" src="https://miro.medium.com/v2/resize:fit:1400/1*ycIMlwgwicqlO6PcFRA-Iw.png">
-
-</div><br/>
-
 e-mail de contato: wellington.lima98@hotmail.com
