@@ -5,6 +5,7 @@
 
 Dev back-end em desenvolvimento
 
+#### *Aprendendo*  🧠
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 
 e-mail de contato: wellington.lima98@hotmail.com
