@@ -10,7 +10,7 @@ Desenvolvedor de Sistemas Backend e Analista de Dados em Evolução
 
 <div>
   <a href="https://github.com/WellingtonLJ09">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WellingtonLJ09&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=WellingtonLJ09&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonLJ09&layout=compact&langs_counts=16&theme=radical"/>
 </div>
     
