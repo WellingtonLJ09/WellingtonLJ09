@@ -6,7 +6,7 @@
 Desenvolvedor de Sistemas Backend e Analista de Dados em Evolução
 
 ## *Aprendendo*  🧠
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c) ![SQL](https://img.shields.io/badge/sql-000?style=for-the-badge&logo=sql) ![PowerBi](https://img.shields.io/badge/powerbi-000?style=for-the-badge&logo=powerbi)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c) ![SQL](https://img.shields.io/badge/sql-000?style=for-the-badge&logo=sql) ![PowerBi](https://img.shields.io/badge/powerbi-000?style=for-the-badge&logo=powerbi) ![HTML](https://img.shields.io/badge/html-000?style=for-the-badge&logo=html) ![CSS](https://img.shields.io/badge/css-000?style=for-the-badge&logo=css) ![JAVASCRIPT](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
 
 <div>
   <a href="https://github.com/WellingtonLJ09">
